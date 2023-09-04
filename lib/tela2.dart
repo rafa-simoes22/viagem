@@ -55,7 +55,7 @@ class _CurrencyConversionScreenState extends State<CurrencyConversionScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Viagem Inteligente - Conversão de Moeda'),
+        title: Text('Conversão de Moeda'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),

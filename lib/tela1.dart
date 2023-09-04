@@ -73,7 +73,7 @@ class _TimeZoneScreenState extends State<TimeZoneScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Viagem Inteligente - Fuso Horário'),
+        title: Text('Fuso Horário'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
